@@ -1,6 +1,6 @@
 你好
 
-<img src="https://user-images.githubusercontent.com/8096557/219956063-56dbfb21-a500-49d6-bb3a-8d44a0b00190.png" alt="图片替换文本" width="500" height="313" align="bottom" />
+<img src="https://user-images.githubusercontent.com/8096557/219956063-56dbfb21-a500-49d6-bb3a-8d44a0b00190.png" alt="图片替换文本" width="40%" height="40%" align="bottom" />
 
 ```java
 @Service

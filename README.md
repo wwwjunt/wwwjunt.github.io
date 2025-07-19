@@ -1,1 +1,1 @@
-- [查看 RocketMQ 测试文档](./RocketMQ/Test.md)
+- [查看 RocketMQ 测试文档](./rocketmq/test.md)
